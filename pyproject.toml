@@ -1,7 +1,7 @@
 [project]
 name = "tf2-lstm-neural-machine-translation-english-german"
 version = "0.1.0"
-description = "Add your description here"
+description = "Encoder-decoder LSTM for English-to-German neural machine translation, built with TensorFlow 2 (Keras) using a pre-trained word embedding and a custom training loop."
 readme = "README.md"
 authors = [
     { name = "Diego Ramirez Rosas", email = "ramirezgrosas@gmail.com" }
