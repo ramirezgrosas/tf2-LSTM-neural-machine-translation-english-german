@@ -10,6 +10,7 @@ requires-python = ">=3.11"
 dependencies = [
     "ipykernel>=7.4.0",
     "matplotlib>=3.11.2",
+    "scikit-learn>=1.9.1",
     "setuptools<82",
     "tensorflow>=2.21.0",
     "tensorflow-hub>=0.16.1",
